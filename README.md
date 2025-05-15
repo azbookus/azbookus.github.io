@@ -1,2 +1,2 @@
 # azbookus.github.io
-Azbookus Limited
+Azbookus
